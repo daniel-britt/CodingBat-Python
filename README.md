@@ -1,2 +1,2 @@
 # CodingBat-Python
-https://codingbat.com/python
+Mostly my solutions to https://codingbat.com/python
