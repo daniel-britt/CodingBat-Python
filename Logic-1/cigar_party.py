@@ -7,4 +7,8 @@ cigar_party(70, True) → True
 """
 
 def cigar_party(cigars, is_weekend):
-    
+    if is_weekend is True and cigars >= 40:
+        return True
+    elif is_weekend is False and (40 <= cigars <=60):
+        return True
+    return False

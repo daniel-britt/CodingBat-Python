@@ -1,2 +1,2 @@
-a = ['1']
-print(len(a))
+x = sum(3,3)
+print(x)
